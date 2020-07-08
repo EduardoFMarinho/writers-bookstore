@@ -107,8 +107,6 @@ header .container .col-md-7 p {
   font-weight: bold;
 }
 
-/********** section 1 **************/
-
 .section-1 {
   padding: 20vmin 0vmin;
 }
@@ -146,8 +144,6 @@ header .container .col-md-7 p {
   font-size: 0.9em;
   color: rgba(0, 0, 0, 0.5);
 }
-
-/*  Section 2  */
 
 .purchase > h1 {
   padding-top: 15vmin;
@@ -195,10 +191,6 @@ header .container .col-md-7 p {
   font-size: 10vmin;
   padding: 1em 0.5em;
 }
-
-
-
-/* Section 2 - Team */
 
 .section-2 .container h1 {
   font-size: 6vmin;
